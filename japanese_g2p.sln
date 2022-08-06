@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{265FFF40-2AC4-4E16-9020-780C12DDF845}"
 	ProjectSection(SolutionItems) = preProject
 		japanese_g2p\openjtalk.cp37-win_amd64.pyd = japanese_g2p\openjtalk.cp37-win_amd64.pyd
+		japanese_g2p\README.md = japanese_g2p\README.md
 	EndProjectSection
 EndProject
 Global
