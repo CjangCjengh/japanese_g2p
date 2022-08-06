@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "japanese_g2p", "japanese_g2p\japanese_g2p.pyproj", "{EC95A656-2B05-497C-BB23-B52ACD3BDA9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{265FFF40-2AC4-4E16-9020-780C12DDF845}"
+	ProjectSection(SolutionItems) = preProject
+		japanese_g2p\openjtalk.cp37-win_amd64.pyd = japanese_g2p\openjtalk.cp37-win_amd64.pyd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC95A656-2B05-497C-BB23-B52ACD3BDA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC95A656-2B05-497C-BB23-B52ACD3BDA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0EBA063-8D93-486F-BD23-24E67CA3A54D}
+	EndGlobalSection
+EndGlobal
