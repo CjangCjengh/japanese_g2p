@@ -12,7 +12,7 @@ jugyoochuunidashItara,gakUseeseekatsuowarunari.
 japanese_g2p.exe -rs 授業中に出したら、学生生活終わるなり
 ```
 jugyoochuuni dashItara, gakUseeseekatsu owarunari.
-### Get romaji with space and accent
+## Get romaji with space and accent
 ```sh
 japanese_g2p.exe -rsa 授業中に出したら、学生生活終わるなり
 ```
